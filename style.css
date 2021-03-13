@@ -1,0 +1,31 @@
+#navbar nav {
+  font-size: 1.5em;
+  font-family: Arial; 
+  margin: 0;
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+}
+
+#navbar a{
+ text-decoration: none;
+ color: black;
+ padding: 20px 40px;
+}
+
+#navbar a:hover {
+  color: blue;
+}
+
+#home {
+  background-image: url("img/cover.jpg");
+  background-position: center;
+  background-repeat:no-repeat;
+  height: 900px;
+}
+
+#para {
+  margin: 30%;
+  font-size: 1.3em;
+  font-family: 'Noto Sans KR', sans-serif;
+}
